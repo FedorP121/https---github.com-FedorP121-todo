@@ -1,16 +1,14 @@
 # todotest
 
-A new Flutter project.
 
-## Getting Started
+Установка данного приложения проста. 
 
-This project is a starting point for a Flutter application.
+1. Скопируй код на свой пк, 
+2. запусти через свою среду разработки, 
+2. установи все пакеты из файла pubspec.yaml . 
+3. в терминале напиши flutter build apk 
+4. жми Enter
+5. терминал скажет путь к твоему сгенерированному файлу. 
+6. установи его на своем смарфоне
+7. используй. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
